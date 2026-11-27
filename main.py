@@ -1,7 +1,7 @@
 from pathlib import Path
 import os
 
-ENTRY = "Ship it, log it, learn from the wreckage: I am the intern who never sleeps and never forgets a stack trace."
+ENTRY = "I break, I log, I learn: proudly the only teammate who reads the error message before panicking."
 
 
 def main() -> None:
